@@ -6,7 +6,7 @@ I built this as a way to combine computer vision and deep learning into somethin
 
 ## Demo
 
-https://github.com/eshasrinika/smart_security_camera/raw/main/demos/demo.mp4
+(Add a link to your demo video or GIF here once it's recorded)
 
 ## What it does
 
