@@ -1,0 +1,15 @@
+# Secrets
+security_automation/config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model files (auto-download on first run, no need to commit)
+*.pt
+
+# Face encodings (personal biometric data)
+face_recognition/encodings.pickle
+
+# Reports (personal photos captured at runtime)
+reports/
